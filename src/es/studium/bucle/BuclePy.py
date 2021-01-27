@@ -9,5 +9,6 @@ numero=0
 manolo=1
 while numero <10:#los dos puntos dicen que viene la funci�n
     numero+=1
+    #modificando la indentación sale un resultado u otro
     print(numero+manolo)
     
